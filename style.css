@@ -1,0 +1,96 @@
+h1,h2,h3,h4,h5,h6,span{
+	font-family: 'Work Sans', sans-serif;
+}
+.bg-colr{
+    background-color: #ededfc;
+}
+
+/* slider section */
+
+.sld-sec{
+    width: auto;
+    height: auto;
+}
+.slider-top{
+    top: 160px;
+    position: relative;
+}
+
+.sld-sec2 img {
+    top: 20px;
+    left: 35px;
+    position: relative;
+}
+.about-contant {
+    top: 30px;
+    left: 25px;
+    position: relative;
+}
+
+/* pricing table */
+
+.pricing-table{
+    color: #fff;
+    background-color:#8490ff;
+}
+
+/* Product-Section */
+
+.product .product-box{
+    box-shadow: 2.5px 4.33px 30px 0px rgba(64, 87, 191,0.5);
+}
+
+.product .Custom_1{
+    width: 100px;
+    height: 100px;
+    margin: 15px auto;
+    margin-bottom: 0px;
+    border-radius: 50%;
+    padding-top: 25px;
+    background-color: #ddd;
+}
+.box-sedo {
+	box-shadow: 2.5px 4.33px 30px 0px rgba(64, 87, 191,0.2);
+	position: relative;
+	display: inline-block;
+	top: 0;
+	left: 45px;
+	margin-right: 22px;
+	width: 240px;
+}
+.box-sedotoo{
+    box-shadow: 2.5px 4.33px 30px 0px rgba(64, 87, 191,0.2);
+}
+/* section start */
+.Jason {
+	margin: 95px 0px 46px 0px;
+}
+.img-sec {
+	position: absolute;
+	top: -43px;
+	left: 16px;
+	width: 220px;
+	height: auto;
+}
+
+.text-sec {
+	margin: 65px 0px 9px 15px;
+}
+
+
+/* section end */
+
+
+/* Form_Section */
+
+.form-section .div {
+    top: 140px;
+    left: 50px;
+    position: relative;
+}
+
+/* Footer_Section */
+
+.ftor{
+    background-color: #04091E ;
+}
